@@ -1,0 +1,8 @@
+Usage:
+make
+./tree
+
+Examples:
+./tree 2421111
+./tree 1113131
+./tree 322111
